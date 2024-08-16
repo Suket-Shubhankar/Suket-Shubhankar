@@ -8,9 +8,9 @@ Here are some ideas to get you started:-->
     Mail : suketshubhankar@gmail.com <br>
     Discord : slothatwork
 
-- 🔭 I’m currently working on using advanced methods to better my simple RAG architecture 
-- 🌱 I’m currently learning C and trying understand the core of how machines work, and how to manipulate them
-- 👯 I’m looking to collaborate on a fun project that can solve small real world problems
+- 🔭 Working on using advanced methods to better my simple RAG architecture 
+- 🌱 Learning C and trying understand the core of how machines work, and how to manipulate them
+- 👯 Looking to collaborate on a fun project that can solve small real world problems
 - 💬 Share ideas with me about programming, science (especially physics) and writing
 - 😄 Pronouns: he/him
 - 🌌 Fun fact about the cosmos : If you could stand on the event horizon of black hole you could see the back of your head as the light would completely circle around the black hole to reach your eyes
