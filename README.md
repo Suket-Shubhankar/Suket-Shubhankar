@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+**I am Suket Shubhankar** mainly an AI/ML developer, though I love and want to learn many domains. I just got my Bachelor's degree in Computer Science, specializing in Artificial Intelligence.
 <!--**Suket-Shubhankar/Suket-Shubhankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
