@@ -5,7 +5,7 @@
 Here are some ideas to get you started:-->
 📫 Reach me: <br>
     [Linkedin](https://www.linkedin.com/in/suket-shubhankar/) <br>
-    Site : suket-shubhankar.github.io
+    [Personal Site](https://www.suket-shubhankar.github.io)
     Mail : suketshubhankar@gmail.com <br>
     Discord : slothatwork
 
