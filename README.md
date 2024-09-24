@@ -3,7 +3,7 @@
 **I am Suket Shubhankar**, an AI/ML developer with a Bachelor's degree in Computer Science, specializing in Artificial Intelligence. I am passionate about deepening my understanding of AI and eager to explore and learn about other domains as well.
 <!--**Suket-Shubhankar/Suket-Shubhankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:-->
-[Personal Site](https://suket-shubhankar.github.io/) <br>
+🌐 [Personal Site](https://suket-shubhankar.github.io/) <br>
 
 📫 Reach me: <br>
     [Linkedin](https://www.linkedin.com/in/suket-shubhankar/) <br>
